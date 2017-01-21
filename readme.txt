@@ -1,8 +1,7 @@
 Testing strategies and plan design
 1.Recommend testing strategies
 
-2.Implement Test plan ¨Ca detailed test plan that describes how all facets of testing will be performed for the implementation:
-
+2.Implement Test plan â€“- a detailed test plan that describes how all facets of testing will be performed for the implementation:
 i. cover all testing types in the document (unit, component, system, UAT/beta).
 
 ii. make a determination on which testing functions should be automated and recommend tools for this automation based on the development platform selected.
